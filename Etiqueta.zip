@@ -1,0 +1,1 @@
+{"status":400,"failed_shipments":[{"shipment_id":"41738448502","message":"Shipment 41738448502 is FF and call is public with client ","error_code":"SHPLAB0218","status":400}],"message":"Unauthorized shipments:\\n\\t41738448502: Shipment 41738448502 is FF and call is public with client "}
